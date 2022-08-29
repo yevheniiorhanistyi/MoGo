@@ -1,5 +1,5 @@
 # Landing page "MoGo"
-### I used here :
+### Was used here :
 - Gulp
 - Webpack
 - SCSS
