@@ -4,5 +4,7 @@
 - Webpack
 - SCSS
 - BEM
-<p></p>
+<p>
+  <img src="img/previewMoGo.png"/>
+</p>
 <p>Go to : https://yevheniiorhanistyi.github.io/MoGo/</p>
